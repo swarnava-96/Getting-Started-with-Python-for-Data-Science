@@ -6,7 +6,8 @@
          Numbers
          Checking the Data type
          Strings
- 2. Variable Assignment
+
+2. Variable Assignment
 
  3. Print Formatting
 
