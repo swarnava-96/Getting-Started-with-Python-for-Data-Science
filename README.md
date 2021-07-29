@@ -1,6 +1,6 @@
-# Python-for-Data-Science
+# Getting Started with Python for Data Science
 
-## Getting Started with Python for Data Science
+## Notebook1
 ```
  1. Data types in Python
          Numbers
