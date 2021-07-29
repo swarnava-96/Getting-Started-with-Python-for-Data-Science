@@ -2,16 +2,15 @@
 
 ## Getting Started with Python for Data Science
 ```
-
-#### Topics Covered
-##### 1. Data types in Python
+ Topics Covered
+ 1. Data types in Python
          Numbers
          Checking the Data type
          Strings
-##### 2. Variable Assignment
+ 2. Variable Assignment
 
-##### 3. Print Formatting
+ 3. Print Formatting
 
-##### 4. Length
+ 4. Length
 
 ```
