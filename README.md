@@ -23,3 +23,9 @@
 5. Dictionaries
 6. Tuples
 ```
+
+## Notebook3
+```
+Exploring Numpy Library
+
+```
