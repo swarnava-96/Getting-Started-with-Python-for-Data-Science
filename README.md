@@ -11,5 +11,14 @@
  3. Print Formatting
 
  4. Length
+```
 
+## Notebook2
+```
+1. Boolean
+2. Boolean and Logical Operators
+3. List
+4. Sets
+5. Dictionaries
+6. Tuples
 ```
