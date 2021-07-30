@@ -39,6 +39,8 @@ Dataset: https://www.kaggle.com/c/mercedes-benz-greener-manufacturing/data
 
 ## Notebook5
 ```
+Exploring Matplotlib Lbrary
+
 1. Scatter plot
 2. Subplots
 3. Line
