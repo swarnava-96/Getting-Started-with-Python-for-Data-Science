@@ -29,3 +29,10 @@
 Exploring Numpy Library
 
 ```
+
+## Notebook4
+```
+Exploring Pandas Library
+
+Dataset: https://www.kaggle.com/c/mercedes-benz-greener-manufacturing/data
+```
