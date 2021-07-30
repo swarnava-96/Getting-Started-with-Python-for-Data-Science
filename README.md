@@ -63,3 +63,10 @@ Exploring Seaborn Library
 6. countplot
 7. bar plot
 ```
+
+## Notebook7
+```
+Exploring Plotly Library
+
+NOTE: This notebook is run on Jupyter as running Plotly on Colab has a different technique.
+```
