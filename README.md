@@ -36,3 +36,15 @@ Exploring Pandas Library
 
 Dataset: https://www.kaggle.com/c/mercedes-benz-greener-manufacturing/data
 ```
+
+## Notebook5
+```
+1. Scatter plot
+2. Subplots
+3. Line
+4. Sine and Cosine curve
+5. Bar Graph
+6. Histogram
+7. Boxplot
+8. Pie Chart
+```
