@@ -50,3 +50,14 @@ Exploring Matplotlib Lbrary
 7. Boxplot
 8. Pie Chart
 ```
+
+## Exploring Seaborn Library
+```
+1. distplot
+2. joinplot
+3. pairplot
+4. boxplot
+5. violinplot
+6. countplot
+7. bar plot
+```
