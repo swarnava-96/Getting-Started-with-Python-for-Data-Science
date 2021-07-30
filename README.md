@@ -51,8 +51,10 @@ Exploring Matplotlib Lbrary
 8. Pie Chart
 ```
 
-## Exploring Seaborn Library
+## Notebook6
 ```
+Exploring Seaborn Library
+
 1. distplot
 2. joinplot
 3. pairplot
