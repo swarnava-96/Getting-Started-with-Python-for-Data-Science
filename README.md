@@ -70,3 +70,16 @@ Exploring Plotly Library
 
 NOTE: This notebook is run on Jupyter as running Plotly on Colab has a different technique.
 ```
+
+## Notebook8
+```
+Functions in Python
+
+1. Basic Functions
+2. Print vs return
+3. Positional and Keyword argument
+4. Inserting multiple statements inside a function
+5. Lambda Function
+6. Map Function
+7. Filter Function
+```
